@@ -2,7 +2,7 @@
 
 ### WinslowCloud is a private Internet-related service provider, run by @SorenEricMent
 
-#### We operate server in world-wide,
+#### We operate servers in world-wide.
 #### We focus on privacy and security.
 
 
